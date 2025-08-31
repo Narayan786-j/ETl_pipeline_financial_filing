@@ -103,8 +103,8 @@ Completeness check for numeric columns
 
 🔮 Future Improvements
 
-Add OCR for scanned PDFs
-Store processed data in SQLite/Postgres
+Add OCR for scanned PDFs,
+Store processed data in SQLite/Postgres,
 Build a dashboard for analytics
 
 Add CI/CD pipeline for automation
