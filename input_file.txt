@@ -1,0 +1,7 @@
+#C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\CATX_20250813_PR.html
+#C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\CATX_20250813_PR.html
+#C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\EWCZ_20250813_PR.html
+#C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\ACHR_20250811_PR.pdf
+
+/app/data/EWCZ_20250813_PR.html
+/app/data/ACHR_20250811_PR.pdf

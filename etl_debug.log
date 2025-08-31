@@ -1,0 +1,113 @@
+2025-08-31 09:53:29,330 - INFO - Processing file: C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\CATX_20250813_PR.html
+2025-08-31 09:53:30,084 - INFO - Processing file: C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\EWCZ_20250813_PR.html
+2025-08-31 09:53:31,062 - WARNING - Skipping unsupported file type: C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\ACHR_20250811_PR.pdf
+2025-08-31 10:03:37,915 - INFO - Processing file: C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\EWCZ_20250813_PR.html
+2025-08-31 10:03:38,241 - INFO - Total tables found: 8
+2025-08-31 10:03:38,881 - INFO - OLTP loading started.....
+2025-08-31 10:03:38,957 - INFO - OLTP loading completed.
+2025-08-31 10:03:39,011 - INFO - OLTP loading started.....
+2025-08-31 10:03:39,064 - INFO - OLTP loading completed.
+2025-08-31 10:03:39,065 - INFO - OLAP loading started.....
+2025-08-31 10:03:39,188 - INFO - OLAP loading completed.
+2025-08-31 10:03:39,189 - INFO - running quality checks....
+2025-08-31 10:03:39,198 - INFO - quality check result: {'future_dates': 0, 'duplicate_fact_ids': 0, 'revenue_non_positive': 0, 'missing_required_metrics': 0, 'orphaned_company_refs': 0}
+2025-08-31 10:03:39,199 - WARNING - Skipping unsupported file type: C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\ACHR_20250811_PR.pdf
+2025-08-31 10:03:39,200 - INFO - Processing file: C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\CATX_20250813_PR.html
+2025-08-31 10:03:39,337 - INFO - Total tables found: 2
+2025-08-31 10:03:39,532 - INFO - OLTP loading started.....
+2025-08-31 10:03:39,578 - INFO - OLTP loading completed.
+2025-08-31 10:03:39,615 - INFO - OLTP loading started.....
+2025-08-31 10:03:39,656 - INFO - OLTP loading completed.
+2025-08-31 10:03:39,657 - INFO - OLAP loading started.....
+2025-08-31 10:03:39,778 - INFO - OLAP loading completed.
+2025-08-31 10:03:39,779 - INFO - running quality checks....
+2025-08-31 10:03:39,792 - INFO - quality check result: {'future_dates': 0, 'duplicate_fact_ids': 0, 'revenue_non_positive': 0, 'missing_required_metrics': 0, 'orphaned_company_refs': 0}
+2025-08-31 10:07:56,278 - INFO - Processing file: C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\CATX_20250813_PR.html
+2025-08-31 10:07:56,452 - INFO - Total tables found: 2
+2025-08-31 10:07:56,538 - INFO - Found Balance Sheet candidate at table 0 with shape (40, 7)
+2025-08-31 10:07:56,613 - INFO - Found Income Statement candidate at table 1 with shape (25, 15)
+2025-08-31 10:07:56,649 - INFO - OLTP loading started.....
+2025-08-31 10:07:56,724 - INFO - OLTP loading completed.
+2025-08-31 10:07:56,759 - INFO - OLTP loading started.....
+2025-08-31 10:07:56,805 - INFO - OLTP loading completed.
+2025-08-31 10:07:56,806 - INFO - OLAP loading started.....
+2025-08-31 10:07:56,954 - INFO - OLAP loading completed.
+2025-08-31 10:07:56,955 - INFO - running quality checks....
+2025-08-31 10:07:56,966 - INFO - quality check result: {'future_dates': 0, 'duplicate_fact_ids': 0, 'revenue_non_positive': 0, 'missing_required_metrics': 0, 'orphaned_company_refs': 0}
+2025-08-31 10:07:56,968 - INFO - Processing file: C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\EWCZ_20250813_PR.html
+2025-08-31 10:07:57,299 - INFO - Total tables found: 8
+2025-08-31 10:07:57,399 - INFO - Found Balance Sheet candidate at table 2 with shape (43, 7)
+2025-08-31 10:07:57,467 - INFO - Found Income Statement candidate at table 3 with shape (29, 14)
+2025-08-31 10:07:57,662 - INFO - OLTP loading started.....
+2025-08-31 10:07:57,711 - INFO - OLTP loading completed.
+2025-08-31 10:07:57,765 - INFO - OLTP loading started.....
+2025-08-31 10:07:57,853 - INFO - OLTP loading completed.
+2025-08-31 10:07:57,853 - INFO - OLAP loading started.....
+2025-08-31 10:07:57,991 - INFO - OLAP loading completed.
+2025-08-31 10:07:57,992 - INFO - running quality checks....
+2025-08-31 10:07:58,009 - INFO - quality check result: {'future_dates': 0, 'duplicate_fact_ids': 0, 'revenue_non_positive': 0, 'missing_required_metrics': 0, 'orphaned_company_refs': 0}
+2025-08-31 10:07:58,011 - WARNING - Skipping unsupported file type: C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\ACHR_20250811_PR.pdf
+2025-08-31 10:21:10,218 - INFO - Processing file: C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\EWCZ_20250813_PR.html
+2025-08-31 10:21:10,552 - INFO - Total tables found: 8
+2025-08-31 10:21:10,680 - INFO - Found Balance Sheet candidate at table 2 with shape (43, 7)
+2025-08-31 10:21:10,750 - INFO - Found Income Statement candidate at table 3 with shape (29, 14)
+2025-08-31 10:21:10,962 - INFO - OLTP loading started.....
+2025-08-31 10:21:11,054 - INFO - OLTP Inserted/Updated: companies=1, statement_types=1, line_items=31, filings=2, facts=62
+2025-08-31 10:21:11,055 - INFO - OLTP loading completed.
+2025-08-31 10:21:11,105 - INFO - OLTP loading started.....
+2025-08-31 10:21:11,161 - INFO - OLTP Inserted/Updated: companies=1, statement_types=1, line_items=20, filings=2, facts=88
+2025-08-31 10:21:11,162 - INFO - OLTP loading completed.
+2025-08-31 10:21:11,163 - INFO - OLAP loading started.....
+2025-08-31 10:21:11,286 - INFO - OLAP schema created & populated successfully!
+2025-08-31 10:21:11,287 - INFO - OLAP loading completed.
+2025-08-31 10:21:11,287 - INFO - running quality checks....
+2025-08-31 10:21:11,299 - INFO - quality check result: {'future_dates': 0, 'duplicate_fact_ids': 0, 'revenue_non_positive': 0, 'missing_required_metrics': 0, 'orphaned_company_refs': 0}
+2025-08-31 10:21:11,300 - INFO - Processing file: C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\CATX_20250813_PR.html
+2025-08-31 10:21:11,461 - INFO - Total tables found: 2
+2025-08-31 10:21:11,516 - INFO - Found Balance Sheet candidate at table 0 with shape (40, 7)
+2025-08-31 10:21:11,586 - INFO - Found Income Statement candidate at table 1 with shape (25, 15)
+2025-08-31 10:21:11,619 - INFO - OLTP loading started.....
+2025-08-31 10:21:11,680 - INFO - OLTP Inserted/Updated: companies=1, statement_types=1, line_items=27, filings=2, facts=52
+2025-08-31 10:21:11,681 - INFO - OLTP loading completed.
+2025-08-31 10:21:11,733 - INFO - OLTP loading started.....
+2025-08-31 10:21:11,772 - INFO - OLTP Inserted/Updated: companies=1, statement_types=1, line_items=10, filings=2, facts=30
+2025-08-31 10:21:11,773 - INFO - OLTP loading completed.
+2025-08-31 10:21:11,773 - INFO - OLAP loading started.....
+2025-08-31 10:21:11,892 - INFO - OLAP schema created & populated successfully!
+2025-08-31 10:21:11,893 - INFO - OLAP loading completed.
+2025-08-31 10:21:11,893 - INFO - running quality checks....
+2025-08-31 10:21:11,903 - INFO - quality check result: {'future_dates': 0, 'duplicate_fact_ids': 0, 'revenue_non_positive': 0, 'missing_required_metrics': 0, 'orphaned_company_refs': 0}
+2025-08-31 10:21:11,904 - WARNING - Skipping unsupported file type: C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\ACHR_20250811_PR.pdf
+2025-08-31 11:44:03,263 - INFO - Processing file: #C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\EWCZ_20250813_PR.html
+2025-08-31 11:47:56,645 - WARNING - Skipping unsupported file type: C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\ACHR_20250811_PR.pdf
+2025-08-31 11:47:56,646 - INFO - Processing file: C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\EWCZ_20250813_PR.html
+2025-08-31 11:47:57,050 - INFO - Total tables found: 8
+2025-08-31 11:47:57,186 - INFO - Found Balance Sheet candidate at table 2 with shape (43, 7)
+2025-08-31 11:47:57,268 - INFO - Found Income Statement candidate at table 3 with shape (29, 14)
+2025-08-31 11:47:57,493 - INFO - OLTP loading started.....
+2025-08-31 11:47:57,577 - INFO - OLTP Inserted/Updated: companies=1, statement_types=1, line_items=31, filings=2, facts=62
+2025-08-31 11:47:57,578 - INFO - OLTP loading completed.
+2025-08-31 11:47:57,638 - INFO - OLTP loading started.....
+2025-08-31 11:47:57,699 - INFO - OLTP Inserted/Updated: companies=1, statement_types=1, line_items=20, filings=2, facts=88
+2025-08-31 11:47:57,701 - INFO - OLTP loading completed.
+2025-08-31 11:47:57,701 - INFO - OLAP loading started.....
+2025-08-31 11:47:57,830 - INFO - OLAP schema created & populated successfully!
+2025-08-31 11:47:57,830 - INFO - OLAP loading completed.
+2025-08-31 11:47:57,831 - INFO - running quality checks....
+2025-08-31 11:47:57,841 - INFO - quality check result: {'future_dates': 0, 'duplicate_fact_ids': 0, 'revenue_non_positive': 0, 'missing_required_metrics': 0, 'orphaned_company_refs': 0}
+2025-08-31 11:51:17,610 - INFO - Processing file: C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\EWCZ_20250813_PR.html
+2025-08-31 11:51:17,922 - INFO - Total tables found: 8
+2025-08-31 11:51:18,032 - INFO - Found Balance Sheet candidate at table 2 with shape (43, 7)
+2025-08-31 11:51:18,112 - INFO - Found Income Statement candidate at table 3 with shape (29, 14)
+2025-08-31 11:51:18,313 - INFO - OLTP loading started.....
+2025-08-31 11:51:18,393 - INFO - OLTP Inserted/Updated: companies=1, statement_types=1, line_items=31, filings=2, facts=62
+2025-08-31 11:51:18,394 - INFO - OLTP loading completed.
+2025-08-31 11:51:18,439 - INFO - OLTP loading started.....
+2025-08-31 11:51:18,502 - INFO - OLTP Inserted/Updated: companies=1, statement_types=1, line_items=20, filings=2, facts=88
+2025-08-31 11:51:18,503 - INFO - OLTP loading completed.
+2025-08-31 11:51:18,504 - INFO - OLAP loading started.....
+2025-08-31 11:51:18,623 - INFO - OLAP schema created & populated successfully!
+2025-08-31 11:51:18,624 - INFO - OLAP loading completed.
+2025-08-31 11:51:18,625 - INFO - running quality checks....
+2025-08-31 11:51:18,636 - INFO - quality check result: {'future_dates': 0, 'duplicate_fact_ids': 0, 'revenue_non_positive': 0, 'missing_required_metrics': 0, 'orphaned_company_refs': 0}
+2025-08-31 11:51:18,638 - WARNING - Skipping unsupported file type: C:\Users\NARAYAN JHA\Downloads\Assignment_Jr_Data_Engineer\Assignment_Jr_Data_Engineer\ACHR_20250811_PR.pdf
